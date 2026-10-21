@@ -1,0 +1,39 @@
+# Copy this to channels.yaml and edit for your six Instagram accounts.
+# The `description` is the most important field — the more specific it is about
+# the channel's topic, voice, and format, the better the routing.
+
+channels:
+  - id: main
+    name: "@yourmainhandle"
+    description: >
+      Personal brand / talking-head clips: opinions, day-in-the-life,
+      direct-to-camera takes on tech and building products. Casual, first-person.
+
+  - id: food
+    name: "@yourfoodhandle"
+    description: >
+      Food and restaurants: reviews, cooking, eating out, street food.
+      Often filmed in public, describing dishes or ordering.
+
+  - id: travel
+    name: "@yourtravelhandle"
+    description: >
+      Travel and places: cities, landmarks, hotels, on-location commentary
+      while walking around or exploring somewhere new.
+
+  - id: fitness
+    name: "@yourfitnesshandle"
+    description: >
+      Fitness and health: workouts, gym, form tips, nutrition.
+
+  - id: business
+    name: "@yourbusinesshandle"
+    description: >
+      Business and entrepreneurship: lessons, advice, behind-the-scenes of
+      running a company, talking to camera about strategy or growth.
+
+  - id: tech
+    name: "@yourtechhandle"
+    description: >
+      Tech tutorials and demos: coding, tools, gadgets, walkthroughs and
+      explanations of how something works.
